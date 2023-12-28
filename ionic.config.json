@@ -1,0 +1,7 @@
+{
+  "name": "travel-journal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
